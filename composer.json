@@ -1,0 +1,5 @@
+{
+    "require": {
+        "fabriceclementz/imagga-php": "^0.1.0"
+    }
+}
